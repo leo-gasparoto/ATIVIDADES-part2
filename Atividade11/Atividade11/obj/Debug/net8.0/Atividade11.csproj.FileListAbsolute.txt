@@ -1,0 +1,14 @@
+C:\Users\Leonardo Gasparoto\Desktop\BackEnd\IntroducaoC#\Exercícios Pt2\Atividade11\Atividade11\obj\Debug\net8.0\Atividade11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo Gasparoto\Desktop\BackEnd\IntroducaoC#\Exercícios Pt2\Atividade11\Atividade11\obj\Debug\net8.0\Atividade11.AssemblyInfoInputs.cache
+C:\Users\Leonardo Gasparoto\Desktop\BackEnd\IntroducaoC#\Exercícios Pt2\Atividade11\Atividade11\obj\Debug\net8.0\Atividade11.AssemblyInfo.cs
+C:\Users\Leonardo Gasparoto\Desktop\BackEnd\IntroducaoC#\Exercícios Pt2\Atividade11\Atividade11\obj\Debug\net8.0\Atividade11.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo Gasparoto\Desktop\BackEnd\IntroducaoC#\Exercícios Pt2\Atividade11\Atividade11\bin\Debug\net8.0\Atividade11.exe
+C:\Users\Leonardo Gasparoto\Desktop\BackEnd\IntroducaoC#\Exercícios Pt2\Atividade11\Atividade11\bin\Debug\net8.0\Atividade11.deps.json
+C:\Users\Leonardo Gasparoto\Desktop\BackEnd\IntroducaoC#\Exercícios Pt2\Atividade11\Atividade11\bin\Debug\net8.0\Atividade11.runtimeconfig.json
+C:\Users\Leonardo Gasparoto\Desktop\BackEnd\IntroducaoC#\Exercícios Pt2\Atividade11\Atividade11\bin\Debug\net8.0\Atividade11.dll
+C:\Users\Leonardo Gasparoto\Desktop\BackEnd\IntroducaoC#\Exercícios Pt2\Atividade11\Atividade11\bin\Debug\net8.0\Atividade11.pdb
+C:\Users\Leonardo Gasparoto\Desktop\BackEnd\IntroducaoC#\Exercícios Pt2\Atividade11\Atividade11\obj\Debug\net8.0\Atividade11.dll
+C:\Users\Leonardo Gasparoto\Desktop\BackEnd\IntroducaoC#\Exercícios Pt2\Atividade11\Atividade11\obj\Debug\net8.0\refint\Atividade11.dll
+C:\Users\Leonardo Gasparoto\Desktop\BackEnd\IntroducaoC#\Exercícios Pt2\Atividade11\Atividade11\obj\Debug\net8.0\Atividade11.pdb
+C:\Users\Leonardo Gasparoto\Desktop\BackEnd\IntroducaoC#\Exercícios Pt2\Atividade11\Atividade11\obj\Debug\net8.0\Atividade11.genruntimeconfig.cache
+C:\Users\Leonardo Gasparoto\Desktop\BackEnd\IntroducaoC#\Exercícios Pt2\Atividade11\Atividade11\obj\Debug\net8.0\ref\Atividade11.dll

@@ -1,0 +1,14 @@
+C:\Users\Leonardo Gasparoto\Desktop\BackEnd\IntroducaoC#\Exercícios Pt2\Atividade17\Atividade17\bin\Debug\net8.0\Atividade17.exe
+C:\Users\Leonardo Gasparoto\Desktop\BackEnd\IntroducaoC#\Exercícios Pt2\Atividade17\Atividade17\bin\Debug\net8.0\Atividade17.deps.json
+C:\Users\Leonardo Gasparoto\Desktop\BackEnd\IntroducaoC#\Exercícios Pt2\Atividade17\Atividade17\bin\Debug\net8.0\Atividade17.runtimeconfig.json
+C:\Users\Leonardo Gasparoto\Desktop\BackEnd\IntroducaoC#\Exercícios Pt2\Atividade17\Atividade17\bin\Debug\net8.0\Atividade17.dll
+C:\Users\Leonardo Gasparoto\Desktop\BackEnd\IntroducaoC#\Exercícios Pt2\Atividade17\Atividade17\bin\Debug\net8.0\Atividade17.pdb
+C:\Users\Leonardo Gasparoto\Desktop\BackEnd\IntroducaoC#\Exercícios Pt2\Atividade17\Atividade17\obj\Debug\net8.0\Atividade17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo Gasparoto\Desktop\BackEnd\IntroducaoC#\Exercícios Pt2\Atividade17\Atividade17\obj\Debug\net8.0\Atividade17.AssemblyInfoInputs.cache
+C:\Users\Leonardo Gasparoto\Desktop\BackEnd\IntroducaoC#\Exercícios Pt2\Atividade17\Atividade17\obj\Debug\net8.0\Atividade17.AssemblyInfo.cs
+C:\Users\Leonardo Gasparoto\Desktop\BackEnd\IntroducaoC#\Exercícios Pt2\Atividade17\Atividade17\obj\Debug\net8.0\Atividade17.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo Gasparoto\Desktop\BackEnd\IntroducaoC#\Exercícios Pt2\Atividade17\Atividade17\obj\Debug\net8.0\Atividade17.dll
+C:\Users\Leonardo Gasparoto\Desktop\BackEnd\IntroducaoC#\Exercícios Pt2\Atividade17\Atividade17\obj\Debug\net8.0\refint\Atividade17.dll
+C:\Users\Leonardo Gasparoto\Desktop\BackEnd\IntroducaoC#\Exercícios Pt2\Atividade17\Atividade17\obj\Debug\net8.0\Atividade17.pdb
+C:\Users\Leonardo Gasparoto\Desktop\BackEnd\IntroducaoC#\Exercícios Pt2\Atividade17\Atividade17\obj\Debug\net8.0\Atividade17.genruntimeconfig.cache
+C:\Users\Leonardo Gasparoto\Desktop\BackEnd\IntroducaoC#\Exercícios Pt2\Atividade17\Atividade17\obj\Debug\net8.0\ref\Atividade17.dll

@@ -1,0 +1,14 @@
+C:\Users\Leonardo Gasparoto\Desktop\BackEnd\IntroducaoC#\Exercícios Pt2\atividade10\atividade10\bin\Debug\net8.0\atividade10.exe
+C:\Users\Leonardo Gasparoto\Desktop\BackEnd\IntroducaoC#\Exercícios Pt2\atividade10\atividade10\bin\Debug\net8.0\atividade10.deps.json
+C:\Users\Leonardo Gasparoto\Desktop\BackEnd\IntroducaoC#\Exercícios Pt2\atividade10\atividade10\bin\Debug\net8.0\atividade10.runtimeconfig.json
+C:\Users\Leonardo Gasparoto\Desktop\BackEnd\IntroducaoC#\Exercícios Pt2\atividade10\atividade10\bin\Debug\net8.0\atividade10.dll
+C:\Users\Leonardo Gasparoto\Desktop\BackEnd\IntroducaoC#\Exercícios Pt2\atividade10\atividade10\bin\Debug\net8.0\atividade10.pdb
+C:\Users\Leonardo Gasparoto\Desktop\BackEnd\IntroducaoC#\Exercícios Pt2\atividade10\atividade10\obj\Debug\net8.0\atividade10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo Gasparoto\Desktop\BackEnd\IntroducaoC#\Exercícios Pt2\atividade10\atividade10\obj\Debug\net8.0\atividade10.AssemblyInfoInputs.cache
+C:\Users\Leonardo Gasparoto\Desktop\BackEnd\IntroducaoC#\Exercícios Pt2\atividade10\atividade10\obj\Debug\net8.0\atividade10.AssemblyInfo.cs
+C:\Users\Leonardo Gasparoto\Desktop\BackEnd\IntroducaoC#\Exercícios Pt2\atividade10\atividade10\obj\Debug\net8.0\atividade10.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo Gasparoto\Desktop\BackEnd\IntroducaoC#\Exercícios Pt2\atividade10\atividade10\obj\Debug\net8.0\atividade10.dll
+C:\Users\Leonardo Gasparoto\Desktop\BackEnd\IntroducaoC#\Exercícios Pt2\atividade10\atividade10\obj\Debug\net8.0\refint\atividade10.dll
+C:\Users\Leonardo Gasparoto\Desktop\BackEnd\IntroducaoC#\Exercícios Pt2\atividade10\atividade10\obj\Debug\net8.0\atividade10.pdb
+C:\Users\Leonardo Gasparoto\Desktop\BackEnd\IntroducaoC#\Exercícios Pt2\atividade10\atividade10\obj\Debug\net8.0\atividade10.genruntimeconfig.cache
+C:\Users\Leonardo Gasparoto\Desktop\BackEnd\IntroducaoC#\Exercícios Pt2\atividade10\atividade10\obj\Debug\net8.0\ref\atividade10.dll
